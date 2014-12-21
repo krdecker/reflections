@@ -1,0 +1,11 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+- a .git folder is created to hold commit meta-data; need this to get ready 
+to do commits
+
+2. How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+- staging area is a selection of files that have been changed and are to be 
+grouped into a commit. This allows flexibility to do separate commits based on 
+logic of the changes.
