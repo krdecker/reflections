@@ -9,3 +9,11 @@ repository? What value do you think it offers?
 - staging area is a selection of files that have been changed and are to be 
 grouped into a commit. This allows flexibility to do separate commits based on 
 logic of the changes.
+
+3. How can you use the staging area to make sure you have one commit per 
+logical change?
+
+- by staging changes in logical groupings, committing; then staging the next
+group, etc. This is the difference between git and the other VCS apps
+
+
