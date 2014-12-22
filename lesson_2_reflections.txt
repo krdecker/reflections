@@ -21,3 +21,7 @@ history organized? How would branches help?
 
 - general and x-rated versions of a game; human-language different websites ; experiments; 
 branching helps keep a working demonstration model (Italian Version) 
+
+5. How do the diagrams help you visualize the branch structure?
+
+- diagrams provide a graphic visualization of the branch structure
