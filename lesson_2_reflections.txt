@@ -16,4 +16,8 @@ logical change?
 - by staging changes in logical groupings, committing; then staging the next
 group, etc. This is the difference between git and the other VCS apps
 
+4. What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
 
+- general and x-rated versions of a game; human-language different websites ; experiments; 
+branching helps keep a working demonstration model (Italian Version) 
