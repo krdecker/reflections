@@ -19,9 +19,15 @@ group, etc. This is the difference between git and the other VCS apps
 4. What are some situations when branches would be helpful in keeping your 
 history organized? How would branches help?
 
-- general and x-rated versions of a game; human-language different websites ; experiments; 
-branching helps keep a working demonstration model (Italian Version) 
+- general and x-rated versions of a game; human-language different websites; 
+experiments; branching helps keep a working demonstration model (Italian Version) 
 
 5. How do the diagrams help you visualize the branch structure?
 
 - diagrams provide a graphic visualization of the branch structure
+
+6. What is the result of merging two branches together? Why do we represent it 
+in the diagram the way we do?
+
+- programme has the combined code changes of each; because we can still see the 
+histories of the side branches and the work-flow of the coding process.
