@@ -3,4 +3,8 @@
 - Pretty well always, if doing work one does not want to lose, as hard drives have a way 
 of failing at the worst . . . I can't . . . the memories are too raw & bitter
 
-2.
+2. Why might you want to always pull changes manually rather than having Git automatically 
+stay up-to-date with your remote repository?
+
+- if you are open source, someone else may make changes to the repository on GitHub that
+you will want to vet before pulling them to your machine. Automated syncing is just scary.
