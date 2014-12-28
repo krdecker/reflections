@@ -17,3 +17,9 @@ copy of a project's files to play with and alter on our own. Clone is a copy of 
 either from remote to local machine, or within local; use this to create a new project 
 based on exising code. A branch is a subsidiary history of commits which may or may not
 be merged into the master branch, but tend toward that destiny. 
+
+4. What is the benefit of having a copy of the last known state of the remote stored locally?
+
+- status will tell me how far I have moved ahead of the remote and I can diff my advancements.
+In addition, can fetch collaborators' changes and check against the local/origin. Finally, 
+if remote is corrupted it can be restored from a local copy.
