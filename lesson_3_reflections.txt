@@ -23,3 +23,11 @@ be merged into the master branch, but tend toward that destiny.
 - status will tell me how far I have moved ahead of the remote and I can diff my advancements.
 In addition, can fetch collaborators' changes and check against the local/origin. Finally, 
 if remote is corrupted it can be restored from a local copy.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+
+- Probably collaborate on programme files on a shared cloud drive. This would require extensive 
+commenting of the code, and/or more emails and texting. Also requires one to be on-line for
+more of the time (less of a problem now than it used to be.) Making changes would be easier; 
+keeping track of versions and experiments would be much more difficult.
